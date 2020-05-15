@@ -47,7 +47,7 @@ Esta investigación estará centrada en las siguientes preguntas.
 
 ### Documentación de la investigación ###
 
-Para cada pregunta de investigación, se documentará el proceso investigativo en un cuaderno Jupyter. Este cuaderno se estructurará con las siguientes secciones:
+Para cada pregunta de investigación, se documentará el proceso investigativo en un cuaderno Jupyter (usar `cuaderno-ejemplo` como referencia). Este cuaderno se estructurará con las siguientes secciones:
 
 * Problema: especificación de la pregunta de investigación.
 
