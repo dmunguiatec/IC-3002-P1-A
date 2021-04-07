@@ -49,7 +49,7 @@ Esta investigación estará centrada en las siguientes preguntas.
 
 Para cada pregunta de investigación, se documentará el proceso investigativo en un cuaderno Jupyter (usar `cuaderno-ejemplo` como referencia). Este cuaderno se estructurará con las siguientes secciones:
 
-* Problema: especificación de la pregunta de investigación.
+* Problema: especificación de la pregunta de investigación y planteo de hipótesis.
 
 * Metodología: propuesta de cómo se intentará resolver la pregunta, así como el diseño de los experimentos que se aplicarán. El diseño de experimentos debe contemplar cuántas veces se ejecutará el algoritmo, con qué argumentos, y cómo se recolectarán los tiempos de ejecución.
 
